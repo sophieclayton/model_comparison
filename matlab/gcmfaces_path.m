@@ -1,0 +1,13 @@
+global gcmfaces_dir; gcmfaces_dir='/scratch/sclayton/matlab/';
+addpath /scratch/sclayton/matlab/;
+addpath /scratch/sclayton/matlab/gcmfaces_IO/;
+addpath /scratch/sclayton/matlab/gcmfaces_convert/;
+addpath /scratch/sclayton/matlab/gcmfaces_exch/;
+addpath /scratch/sclayton/matlab/gcmfaces_maps/;
+addpath /scratch/sclayton/matlab/gcmfaces_misc/;
+addpath /scratch/sclayton/matlab/gcmfaces_calc/;
+addpath /scratch/sclayton/matlab/gcmfaces_smooth/;
+addpath /scratch/sclayton/matlab/gcmfaces_devel/;
+addpath /scratch/sclayton/matlab/sample_analysis/;
+addpath /scratch/sclayton/matlab/sample_processing/;
+addpath /scratch/sclayton/matlab/ecco_v4/;
